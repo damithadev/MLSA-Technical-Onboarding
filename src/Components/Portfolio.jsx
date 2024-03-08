@@ -45,7 +45,7 @@ const projectList = [
   {
     title: "Bunny Clothing",
     description: "Bunny Clothing is an e-commerce website that sells clothing items.",
-    url: "https://bunnyclothing.damitha.dev/",
+    url: "https://bunnyclothing.damitha.dev",
   },
   {
     title: "Damitha.dev",
